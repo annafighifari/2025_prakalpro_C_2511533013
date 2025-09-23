@@ -22,6 +22,7 @@ public class MembuatKue {
 		System.out.println("Masukkan kue ke dalam oven");
 		System.out.println("Biarkan cookie untuk dipanggang");
 	}
+	
 //	Langkah 3: Hiasi kue.
 	public static void menghias() {
 		System.out.println("Campur bahan untuk frosting.");
